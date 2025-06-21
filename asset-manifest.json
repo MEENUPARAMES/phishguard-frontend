@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/phishguard-frontend/static/js/main.95a04438.js",
+    "index.html": "/phishguard-frontend/index.html",
+    "main.95a04438.js.map": "/phishguard-frontend/static/js/main.95a04438.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95a04438.js"
+  ]
+}
